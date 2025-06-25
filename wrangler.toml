@@ -1,0 +1,5 @@
+name="didyougetdone_what"
+compatibility_date = "2025-06-16"
+route.custom_domain = true
+route.pattern = "what.didyougetdone.com"
+assets.directory = "./public"
